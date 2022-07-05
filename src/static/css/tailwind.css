@@ -12,6 +12,10 @@ h3 {
   @apply text-2xl font-bold mb-3;
 }
 
+p>a {
+  @apply underline underline-offset-2 text-blue-700 hover:text-sky-200
+}
+
 /* Syntax Highlighting*/
 
 body :not(pre) > code[class*="language-"],
