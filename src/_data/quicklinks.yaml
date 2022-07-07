@@ -3,12 +3,6 @@ links:
   - title: My posts
     url: /blog
     desc: Articles on topics that might be useful for other people or I want to keep
-  - title: Resume
-    url: /resume
-    desc: My work background, projects, and feedback from my team-mates
-  - title: Public learning
-    url: /learning-archive
-    desc: Public repository of my learning plans by year
   - title: Contact
     url: /contact
     desc: Contact information to reach me
